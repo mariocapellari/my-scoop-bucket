@@ -1,6 +1,6 @@
 {
 	"version": "1.5.4",
 	"url": "https://sg-shotgunsoftware.s3.amazonaws.com/deploy/desktop/ShotgunInstaller_Current.exe",
-	"bin": "Shotgun.exe"
+	"bin": "ShotgunInstaller_Current.exe"
 }
 
